@@ -1,0 +1,3 @@
+- https://projects.100xdevs.com/tracks/exchange-1/Building-an-Exchange---Part-1-1
+- https://projects.100xdevs.com/tracks/exchange-2/Building-an-Exchange---Part-2--Backend--1
+- https://github.com/100xdevs-cohort-2/week-30-orderbook-1
